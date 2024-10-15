@@ -1,0 +1,7 @@
+# Hey this is a YAML
+my-course: "AWS DevOps Profession Certification"
+version: 1.0
+price: 299
+is_public : true
+relase_date: 2022-01-10
+pre_enroll = null
